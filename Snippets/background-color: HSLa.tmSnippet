@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>background-color: hsla(${1:255},${2:100}%,${3:100}%,${4:1});$0</string>
+	<key>name</key>
+	<string>background-color: HSLa</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>bgc</string>
+	<key>uuid</key>
+	<string>E5110462-2059-4009-AEBA-B3834AFBCC98</string>
+</dict>
+</plist>
